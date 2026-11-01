@@ -1,8 +1,8 @@
 ---
 
-### Support evotap
+### Support the evo framework
 
-evotap, like Glass, is free and open source, designed, built and maintained by one developer in his own time. If it has earned a place on your player, you can support its development:
+evotap is part of the evo framework (https://evoframework.org): free and open source, designed, built and maintained by one developer in his own time. If it has earned a place on your player, you can support the framework's development:
 
 - GitHub Sponsors: https://github.com/sponsors/foonerd
 - Ko-fi: https://ko-fi.com/justanerd
