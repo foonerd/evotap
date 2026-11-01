@@ -1,6 +1,6 @@
 # evotap
 
-The audio tap of the evo framework for Volumio: an ALSA plugin loaded into the player's audio process, through which every stream the player plays passes byte for byte, PCM, DoP and native DSD alike. On the way it measures the stream for meters and, when asked, shares the stream itself with any process on the player that wants the audio. Nothing in it blocks the audio: it copies, hands over, and the player plays on; a reader that falls behind loses what it missed and the player never waits.
+The audio tap of the [evo framework](https://evoframework.org) for Volumio, part of that ecosystem: an ALSA plugin loaded into the player's audio process, through which every stream the player plays passes byte for byte, PCM, DoP and native DSD alike. On the way it measures the stream for meters and, when asked, shares the stream itself with any process on the player that wants the audio. Nothing in it blocks the audio: it copies, hands over, and the player plays on; a reader that falls behind loses what it missed and the player never waits.
 
 evotap is built and tested in the [Glass](https://github.com/foonerd/glass) repository, which is the one source, and released here as its own artefact so that any plugin can ship it without depending on Glass.
 
